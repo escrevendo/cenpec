@@ -374,9 +374,25 @@ section.module.parallax-3 p {
 
 
 
+.collapse_eq h4{
+    font-size:1.5vw;
+}
 
 
 
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+ .collapse_eq h4{
+    font-size:4vw;
+}
+}
 
 
 
